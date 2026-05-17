@@ -1,4 +1,3 @@
-#  Shell + Docker + Cloudflare Wildcard Subdomains
 
 --------------------------------------------
 
